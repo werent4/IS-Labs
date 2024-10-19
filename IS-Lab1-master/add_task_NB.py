@@ -2,7 +2,7 @@
 Implementation of Naive Bayes for 1st lab (Additional task)
 '''
 
-from sklearn.naive_bayes import GaussianNB
+from sklearn.naive_bayes import GaussianNB #type: ignore
 from typing import List, Tuple
 from pathlib import Path
 
